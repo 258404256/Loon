@@ -12,7 +12,7 @@
 
 * [Loon.conf](https://raw.githubusercontent.com/258404256/Loon/master/Loon.conf) 远程脚本订阅
 
-* [Loon.tf.cn.conf](https://raw.githubusercontent.com/258404256/Loon/master/Loon.tf.cn.conf) 远程TF脚本订阅
+* [Loon_tf_cn.conf](https://raw.githubusercontent.com/258404256/Loon/master/Loon_tf_cn.conf) 远程TF脚本订阅
 
 * [Script.conf](https://raw.githubusercontent.com/258404256/Loon/master/Script.conf) 脚本订阅
 
