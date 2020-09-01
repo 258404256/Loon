@@ -10,6 +10,10 @@
 ### Loon脚本订阅配置：
 * [视频教程](https://youtu.be/F1BEgma4xYA)
 
+* [Loon.conf](https://raw.githubusercontent.com/258404256/Loon/master/Loon.conf) 远程脚本订阅
+
+* [Loon.tf.cn.conf](https://raw.githubusercontent.com/258404256/Loon/master/Loon.tf.cn.conf) 远程TF脚本订阅
+
 * [Script.conf](https://raw.githubusercontent.com/258404256/Loon/master/Script.conf) 脚本订阅
 
 * [Cookie.conf](https://raw.githubusercontent.com/258404256/Loon/master/Cookie.conf)获取Cookie订阅
